@@ -1,6 +1,6 @@
 section .data
-  msg 	db "Hello, World!", 0xa
-  msgLen 	equ	$- msg
+  msg db "Hello, World!", 0xa
+  msgLen equ $- msg
 
 section .text
   global _start
