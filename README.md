@@ -1,11 +1,9 @@
 ## Assembly Template
-Welcome to my x86_64 assembly template. Your main file
+Welcome to my x86-64 assembly template. Your main file
 is going to be in `main.asm`. Linking and compiling
-options are in the `Makefile` (it's a hidden file so
-you have to make sure to select `Show hidden files`).
-`main.asm` is already set up with a simple "Hello,
-World" program, so feel free to edit that. The debugger
-is also setup with GDB.
+options are in the `Makefile. `main.asm` is already set
+up with a simple "Hello, world!" program, so feel free
+to edit that. The debugger is also setup with GDB.
 
 Below are some resources to learn the language:
 
